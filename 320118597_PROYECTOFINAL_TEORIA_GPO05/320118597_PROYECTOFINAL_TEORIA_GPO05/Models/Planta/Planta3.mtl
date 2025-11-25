@@ -1,0 +1,25 @@
+newmtl Planta:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VerdePlanta.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Planta:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+newmtl Planta:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Marmol.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\OneDrive\\Documentos\\GitHub\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_GPO05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2B3AC4-31C0-4C49-9AF5-8A4ED6BC139C}|320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_GPO05.vcxproj|C:\\Users\\aaron\\OneDrive\\Documentos\\GitHub\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_2026-1_GPO05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A2B3AC4-31C0-4C49-9AF5-8A4ED6BC139C}|320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_GPO05.vcxproj|solutionrelative:320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_2026-1_GPO05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "320118597_PROYECTOFINAL_TEORIA_2026-1_GPO05.cpp",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Documentos\\GitHub\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_2026-1_GPO05.cpp",
+              "RelativeDocumentMoniker": "320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_2026-1_GPO05.cpp",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Documentos\\GitHub\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_2026-1_GPO05.cpp",
+              "RelativeToolTip": "320118597_PROYECTOFINAL_TEORIA_GPO05\\320118597_PROYECTOFINAL_TEORIA_2026-1_GPO05.cpp",
+              "ViewState": "AgIAAAQFAAAAAAAAAAAAABQFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T05:21:14.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

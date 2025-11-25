@@ -1,0 +1,23 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib PantallaPC.mtl
+g default
+v -1.751927 4.014998 1.331495
+v 1.751927 4.014998 1.331495
+v -1.751927 6.450142 1.331495
+v 1.751927 6.450142 1.331495
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 0.000000 1.000000
+vt 1.000000 1.000000
+vn 0.000000 0.000000 1.000000
+vn 0.000000 0.000000 1.000000
+vn 0.000000 0.000000 1.000000
+vn 0.000000 0.000000 1.000000
+vn 0.000000 0.000000 1.000000
+vn 0.000000 0.000000 1.000000
+s off
+g polySurface1 PCSF:group_pasted__group2_pasted__pasted__group_pasted__pasted__pasted__pCube1
+usemtl PCSF:phong2SG
+f 1/1/1 2/2/2 3/3/3
+f 3/3/4 2/2/5 4/4/6
